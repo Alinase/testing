@@ -1,0 +1,6 @@
+{
+  "name": "CloudResilience: UNZA Cloud POS Research Prototype",
+  "description": "Empirical comparative study prototype evaluating Hybrid Offline-First vs Pure SaaS cloud service models in Zambia under network outages and load shedding (UNZA NASREC: 2026-JAN: 030).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
